@@ -7,6 +7,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
     <title>Landing Page</title>
     <link rel="stylesheet" href="css/style.css">
     <meta charset="description" content="Descrição do meu site">
@@ -55,6 +57,17 @@
                         <p>* Campos Obrigatórios</p>
                     </div>
                 </form>
+            </div>
+        </div>
+    </section>
+
+    <section class="chamada">
+        <div class="container">
+            <div>
+                <h2>Minha chamada para o empreendimento</h2>
+            </div>
+            <div>
+                <p>Alguma mensagem para a chamada</p>
             </div>
         </div>
     </section>
