@@ -71,6 +71,47 @@
             </div>
         </div>
     </section>
+
+    <section class="mosaico">
+        <div class="container">
+            <div class="flex-mosaico">
+                <div style="background-image: url('images/mosaico1.jpg');" class="item-1-mosaico"></div>
+                <!-- /.item-1-mosaico -->
+                <div class="item-2-mosaico"><p>Excepteur esse veniam consectetur aute sunt elit occaecat magna aliqua eu elit irure id irure.Sint qui eu excepteur nisi ullamco ea deserunt Lorem eu minim culpa dolore mollit.Ex ipsum dolor dolore cillum anim commodo elit ullamco occaecat.Veniam veniam aliquip laboris occaecat deserunt tempor adipisicing laborum.</p></div>
+                <!-- /.item-2-mosaico -->
+            </div>
+            <!-- /.flex-mosaico -->
+            <div class="flex-mosaico">
+                <div style="background-image: url('images/mosaico2.jpg');order:2" class="item-1-mosaico"></div>
+                <!-- /.item-1-mosaico -->
+                <div class="item-2-mosaico" style="order:1"><p>Excepteur esse veniam consectetur aute sunt elit occaecat magna aliqua eu elit irure id irure.Sint qui eu excepteur nisi ullamco ea deserunt Lorem eu minim culpa dolore mollit.Ex ipsum dolor dolore cillum anim commodo elit ullamco occaecat.Veniam veniam aliquip laboris occaecat deserunt tempor adipisicing laborum.</p></div>
+                <!-- /.item-2-mosaico -->
+            </div>
+            <!-- /.flex-mosaico -->
+            <div class="flex-mosaico">
+                <div style="background-image: url('images/mosaico3.jpg');" class="item-1-mosaico"></div>
+                <!-- /.item-1-mosaico -->
+                <div class="item-2-mosaico"><p>Excepteur esse veniam consectetur aute sunt elit occaecat magna aliqua eu elit irure id irure.Sint qui eu excepteur nisi ullamco ea deserunt Lorem eu minim culpa dolore mollit.Ex ipsum dolor dolore cillum anim commodo elit ullamco occaecat.Veniam veniam aliquip laboris occaecat deserunt tempor adipisicing laborum.</p></div>
+                <!-- /.item-2-mosaico -->
+            </div>
+            <!-- /.flex-mosaico -->
+            <div class="flex-mosaico">
+                <div style="background-image: url('images/mosaico4.jpg');order:2" class="item-1-mosaico"></div>
+                <!-- /.item-1-mosaico -->
+                <div class="item-2-mosaico" style="order:1"><p>Excepteur esse veniam consectetur aute sunt elit occaecat magna aliqua eu elit irure id irure.Sint qui eu excepteur nisi ullamco ea deserunt Lorem eu minim culpa dolore mollit.Ex ipsum dolor dolore cillum anim commodo elit ullamco occaecat.Veniam veniam aliquip laboris occaecat deserunt tempor adipisicing laborum.</p></div>
+                <!-- /.item-2-mosaico -->
+            </div>
+            <!-- /.flex-mosaico -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- /.mosaico -->
+
+    <footer>
+        <img src="images/logo-1.png" alt="">
+        <p>Todos os direitos reservados</p>
+        <p>Contato: 3222-2356</p>
+    </footer>
     
 </body>
 </html>
