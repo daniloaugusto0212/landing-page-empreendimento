@@ -12,15 +12,15 @@ html, body{
 /*Divs Gerais*/
 .container{
     width: 100%;
-    max-width: 1200px;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
 .clear{clear: both;}
 
 header{
-    padding: 10px 2% 30px 2%;
-    background: rgb(180,180,180);
+    padding: 10px 2% 25px 2%;
+    background: rgb(220,220,220);
 }
 
 .logo-1{
@@ -167,6 +167,7 @@ section.chamada p{
 footer{
     text-align: center;
     padding:20px 0;
+    background-color:rgb(220, 220, 220);
 }
 
 footer p {

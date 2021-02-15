@@ -108,9 +108,11 @@
     <!-- /.mosaico -->
 
     <footer>
-        <img src="images/logo-1.png" alt="">
-        <p>Todos os direitos reservados</p>
-        <p>Contato: 3222-2356</p>
+        <div class="container">
+            <img src="images/logo-1.png" alt="">
+            <p>Todos os direitos reservados</p>
+            <p>Contato: 3222-2356</p>
+        </div>
     </footer>
     
 </body>
