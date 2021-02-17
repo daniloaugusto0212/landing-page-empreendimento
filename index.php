@@ -11,9 +11,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
     <title>Landing Page</title>
     <link rel="stylesheet" href="css/style.css">
-    <meta charset="description" content="Descrição do meu site">
-    <meta charset="keywords" content="palavras, chave, do site">
-    <meta charset="author" content="Danilo Augusto">
+    <meta name="description" content="Descrição do meu site">
+    <meta name="keywords" content="palavras, chave, do site">
+    <meta name="author" content="Danilo Augusto">
 </head>
 <body>
 
